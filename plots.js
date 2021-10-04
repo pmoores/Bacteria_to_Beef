@@ -126,3 +126,5 @@
 //Slice() at the end of an array 12.2.1
 // var words = ['seal', 'dog', 'scorpion', 'orangutan', 'salamander'];
 // words.slice(3, );
+
+
